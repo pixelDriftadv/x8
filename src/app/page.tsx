@@ -21,7 +21,7 @@ export default function Home() {
         Bruh SSB why did you also had to be like everyone else betrayer <br/>
         Jante ho mere parents aur mera zindagi, movie se kamm nahi bloge<br/>
         mere dadaji apna time pe cycle mein nitro fit kardiye the, radio khud se hi bana diye the (from scratch), apna cycle ko motorcycle bana diye the <br/>
-        uss samay yeh sab bada chiz tha, mera dadaji ka 22 acre land property + Verma Radio Ghar (Tetulmari + Katras Business Shop) establish kardiye, apna time ka best-in-class, overall best electronics shop<br/>
+        uss samay yeh sab bada chiz tha, mera dadaji ka 22 acre land property + Verma Radio Ghar (Tetulmari house + Katras Business Shop) establish kardiye, apna time ka best-in-class, overall best electronics shop<br/>
         Bass unka ek problem tha over-trusting (joh ki mere papa aur mera bhi hai), apne bhaiyo aur mere bada-papa log pe <br/>
         apna 11 acre land uss zamana mein apne bhaiyo ko free mein dediye bharosa karke <br/>
         aur badle mein, mere papa jab 9 yrs k the tb hi mere dadaji ka death hogya mysteriously <br/>
