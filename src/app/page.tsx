@@ -15,7 +15,7 @@ export default function Home() {
           'inset-x-0 inset-y-[-30%] h-[100%] skew-y-12'
         )}
       />
-      <p className="z-10 whitespace-pre-wrap text-center text-xl font-extrabold tracking-tighter text-black dark:text-white">
+      <p className="z-10 whitespace-pre-wrap text-center text-sm font-extrabold tracking-tighter text-black dark:text-white">
        I DONT UNDERSTAND WHATEVER THE LANG YOU USE, KINDLY REPLY IN HINDI/ENGLISH ONLY PLEASE?
         <br />
         Bruh SSB why did you also had to be like everyone else betrayer <br/>
