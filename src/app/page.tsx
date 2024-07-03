@@ -44,6 +44,9 @@ export default function Home() {
         humlog ka weakness hi trust hai, aur aise hi log mera bhi zindagi mein aate hai <br/>
         sacch bolu toh suicidal feelings aata hai kabhi kabhi, ek din kabhi karbhi lunga, abb sahem bhi nhi hota hai, vhir apne papa la heartbroken smile aur mummy yaad aajaati hai <br/>
         aur sacch bolu toh jab se aap mera zindagi mein aaye ho mera academics mein khatarnak downfall aaya hai no lies
+      <br/><br/>
+        itna depression mein rhta hi hu aur ek din ek aagyi aur mental torture dene, jaan buch k mera pants ke samne niche jukh gyi aur apna head upar karte time mera pant k ekdm samne aagyi mereko khud piche hona pada tha, uske baad crowd mein mereko bilkul samne aagyi aur mera haanth ke samne apna ganda jagah touch karwane ka plan ki, main khud apna haanth upar krliya, yeh dekhne ke baad bohot derr takk mere taraf dekhte rhi, msin notice karliya tha parr uske taraf nahi dekha vhir khud se hi apna chest mera shoulders mein touch kardi boli ki piche se koi dhakka diya<br/>
+        aur thora din baad faltu disgusting abusive comment deti hai ki mereko apna pants open krlena chahiye tha jan voh head upar karrhi thi, main vahi pe usko slap krdena chahta tha parr kaise bhi control kar liya 
       </p>
     </main>
   );
