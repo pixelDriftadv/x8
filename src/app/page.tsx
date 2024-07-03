@@ -16,9 +16,13 @@ export default function Home() {
         )}
       />
       <p className="z-10 whitespace-pre-wrap text-center text-xl font-extrabold tracking-tighter text-black dark:text-white">
-        {'"weak" and why should I even text you back?'} <br />
+       I DONT UNDERSTAND WHATEVER THE LANG YOU USE, KINDLY REPLY IN HINDI/ENGLISH ONLY PLEASE?
+        <br />
         <span className=" text-base font-medium">
           {' '}
+           {'"weak" and why should I even text you back?'} 
+                    <br />
+
           For another direct complain to my parents? <br /> <br />
           <br />
           Still, {'"weak"? '} <br />
