@@ -40,7 +40,7 @@ export default function Home() {
           lifetime partner because I dont really trust you after all the lies
           and abusing {"you've"} done <br /> <br /> <br />
           Look I wont really just simp over just because how beautiful you look
-          and cry over and over again <br />
+          and cry over and over again, as far I only loved your beautiful soul with a heartwarming dream<br />
           Also you have a chappri mindset you literally follow a boy with{' '}
           {'"itz"'} in the username and say to me text based are weak, then want
           do you want? <br /> Should I ride with you on a KTM? <br />
