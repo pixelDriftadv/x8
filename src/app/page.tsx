@@ -51,6 +51,9 @@ export default function Home() {
         aisa aisa log se milne k baad aapka hi yaad aata h aur aapka hi saath chahiye, parr aap bhi jhuthe hi nikle <br/>
         galti aapka bhi nahi hai galti toh mera hi trust issues ka hai<br/>
         lagta tha sirf aap hi mera heart sunn paa rhe ho parr aap bhi sirf texts hi padhte the <br/>
+      <br/><br/>
+        Aur haan, meri pyari si Sana, aap jab bhi chale toh piche dhyan dete rhe school me hi ek din ek student ko apko piche se galat nazaro se dekhte huye dekha tha aur aap toh aaram se baat karrhe the apne dost k saath <br/>
+        please careless kabhi nahi rahiyega, sapna mein bhi kabhi nhi chahta ki aapka kuch ho jaye, aap mere liye *precious* chiz ho, apka hi life k liye aapse duur rahta hu aur text based rahta hu aap kabhi bhi mereko nahi samjh payenge, thora saal baad samjh aayga yeh sab kyu kiya tha, hard-realisation hoga
       </p>
     </main>
   );
