@@ -53,7 +53,7 @@ export default function Home() {
         Aunty ek din ladai karti hai haanth mein knife rakhke bolti hai mere papa ko tera vansh (family) khatam kardenge, dono baccha ko maar denge (me and my brother), jisko bhi batata hu sab bolta hai ki koi itna ganda kaise hosakta hai jabki main face kiya hu<br/>
         class 10th se hi suicide wala thoughts aate rhta h emotionless hogya tha, aaap aaye tab thora din smile karna sikha parr aap bhi, abb main bhi toh insaan hi hu jyada tolerate nahi karpaunga <br/>
         aur aaap bhi merese humesa ladai hi karte ho, jab samne wala  ka mental state nahi jaante toh kuch bolo toh nahi kamm se kamm, kya pta main kuch kar baithu </br>
-        ek din sab chiz khatam krlene ka mann karta h parr vhir meri pyari mummy
+        ek din sab chiz khatam krlene ka mann karta h vahi sabse aasan rahega parr vhir meri pyari mummy
       
       </p></main>
   );
