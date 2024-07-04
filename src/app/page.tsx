@@ -16,6 +16,10 @@ export default function Home() {
         )}
       />
       <p>
+        bolte ho weak r? <br/>
+        mera haar ek credentials mein tumhara birthday hai main frankly bol deta hu <br/>
+        mera desktop wallpaper mein tumhara birthday hai, screen startup ke time hi dekh k tumhara yaad aata hai <br/>
+        main kabhi weak nahi hone dunga mera promise, jhuth aap bol sakte ho aur weak/end aap hi karsakte ho, parr bharosa matt todiye direct bol dijiega, mereko jhutha dilasa/aasha ya kuch bhi nahi chahiye<br/>
         Bruh SSB why did you also had to be like everyone else betrayer <br />
         Jante ho mere parents aur mera zindagi, movie se kamm nahi bloge
         <br />
