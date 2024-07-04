@@ -16,6 +16,7 @@ export default function Home() {
         )}
       />
       <p>
+        The thing I hate the most about you is that whenever I need help from you just completely go blank, like this way you are going to complete your own hospital dream and helping poor people? <br/>
         bolte ho weak r? <br/>
         mera haar ek credentials mein tumhara birthday hai main frankly bol deta hu <br/>
         mera desktop wallpaper mein tumhara birthday hai, screen startup ke time hi dekh k tumhara yaad aata hai <br/>
