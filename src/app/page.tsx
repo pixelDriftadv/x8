@@ -45,7 +45,7 @@ export default function Home() {
       <br/>
         apna zindagi aisa hi bass chala rha hu aur tumhara tension alag, kaha ho drop liye ya koi college kaise nye dost bana rhe ho <br/>
         <br/><br/>
-        nahi baat karta koi g se mereko interest bhi nahi hai yeh sab chiz mein, SAB, SAA se sirf formality se ke liye baat karta tha dushman thori bana lunga kisiko jabki voh dosti karna chahta hai <br/>
+        nahi baat karta koi g se mereko interest bhi nahi hai yeh sab chiz mein, SAB, SAA se sirf formality se ke liye baat karta tha dushman thori bana lunga kisiko jabki voh dosti karna chahta hai aur naa hi main gs k taraf dekhta bhi hu mann se (you are the only exception)<br/>
         <br/><br/><br/>
         aur sunna chahte ho?
         mera 12th boards exam k phele mera ghar mein civil war chal rha tha, mere papa mummy silent nature ke hai toh aunty humesa humlog se hi ladai karti hai bina koi vajah k<br/>
