@@ -4,7 +4,7 @@ import { cn } from '../../lib/utils';
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+    <main className="flex min-h-screen flex-col items-center justify-between py-24 px-8">
       <AnimatedGridPattern
         numSquares={50}
         maxOpacity={0.5}
