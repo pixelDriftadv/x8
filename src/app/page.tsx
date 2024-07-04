@@ -16,7 +16,7 @@ export default function Home() {
         )}
       />
       <p className="z-10 whitespace-pre-wrap text-center text-sm font-extrabold tracking-tighter text-black dark:text-white">
-       If I still couldnt make you unblock and make me a friend then goodbye, enjoy your life with i_s_732, im leaving everything now, dont ever try reaching me ever again neither I would</p>
+       bruh Sana you are the prettiest and the most precious thing i could ever have (after my family) so be safe and healthy and qualify NEET, become a doctor, complete your dreams, instead of focusing on me, I am a human afterall and yeah unblock me, I blocked 695 ppl on discord, I am being blocked by someone for the first time in my life</p>
     </main>
   );
 }
