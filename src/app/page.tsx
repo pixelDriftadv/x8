@@ -15,7 +15,12 @@ export default function Home() {
           'inset-x-0 inset-y-[-30%] h-[100%] skew-y-12'
         )}
       />
-      <p>
+      <p className="z-10 whitespace-pre-wrap text-center text-5xl font-medium tracking-tighter text-black dark:text-white mb-6">
+        You think I will easily forget you? <br/><br/>
+        Meanwhile my desktop background:
+      </p>
+      <Image src='/bg.png' alt='pc_bg' width={100} height={100} className='w-[80vw] h-auto rounded-2xl shadow-xl' />
+      {/* <p>
         The thing I hate the most about you is that whenever I need help from you just completely go blank, like this way you are going to complete your own hospital dream and helping poor people? <br/>
         bolte ho weak r? <br/>
         mera haar ek credentials mein tumhara birthday hai main frankly bol deta hu <br/>
@@ -110,7 +115,7 @@ export default function Home() {
         kar baithu <br />
         ek din sab chiz khatam krlene ka mann karta h vahi sabse aasan rahega
         parr vhir meri pyari mummy
-      </p>
+      </p> */}
     </main>
   );
 }
