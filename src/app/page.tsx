@@ -17,7 +17,7 @@ export default function Home() {
       />
       <p className="z-10 whitespace-pre-wrap text-center text-5xl font-medium tracking-tighter text-black dark:text-white">
         You think I will easily forget you? <br/><br/>
-        Meanwhile <br/> my desktop <br/> background
+        Meanwhile my desktop background
       </p>
       <Image src='/bg.png' unoptimized  alt='pc_bg' width={100} height={100} className='w-[80vw] h-auto rounded-xl shadow-xl py-24' />
       {/* <p>
