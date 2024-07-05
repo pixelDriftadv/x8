@@ -1,6 +1,10 @@
+'use client';
+
 import Image from 'next/image';
 import AnimatedGridPattern from '../../components/magicui/animated-grid-pattern';
 import { cn } from '../../lib/utils';
+import ReactPlayer from 'react-player';
+import Link from 'next/link';
 
 export default function Home() {
   return (
@@ -15,16 +19,49 @@ export default function Home() {
           'inset-x-0 inset-y-[-30%] h-[100%] skew-y-12'
         )}
       />
+
+      <p className="z-10 whitespace-pre-wrap text-center text-xl font-medium tracking-tighter text-black dark:text-white">
+        I am currently learning{' '}
+        <span className=" underline text-blue-600">
+          <Link href={'https://dart.dev/'}>dart</Link>
+        </span>{' '}
+        and{' '}
+        <span className=" underline text-blue-600">
+          <Link href={'https://flutter.dev/'}>flutter</Link>
+        </span>{' '}
+        for building Native Apps for Android and iOS
+      </p>
+      <br />
+      <ReactPlayer
+        url="/and_std.mp4"
+        controls={true}
+        width="80vw" // Show native player controls
+      />
+      <br />
+      <br />
       <p className="z-10 whitespace-pre-wrap text-center text-5xl font-medium tracking-tighter text-black dark:text-white">
-        You think I will easily forget you? <br/><br/>
+        You think I will easily forget you? <br />
+        <br />
         Meanwhile my desktop background
       </p>
-      <Image src='/bg.png' unoptimized  alt='pc_bg' width={100} height={100} className='w-[80vw] h-auto rounded-xl shadow-xl py-24' />
+      <Image
+        src="/bg.png"
+        unoptimized
+        alt="pc_bg"
+        width={100}
+        height={100}
+        className="w-[80vw] h-auto rounded-xl shadow-xl py-24"
+      />
 
-      <br/><br/><br/>
+      <br />
+      <br />
+      <br />
       <p className="z-10 whitespace-pre-wrap text-center text-5xl font-medium tracking-tighter text-black dark:text-white">
-        {"Don't worry about me, I won't physically hurt myself, whenever I feel depressed I just remember what my dad had gone through at my age and my pain just disappears"} <br/>
-        I <s>remember</s> <span className='font-extrabold'>love</span> you everyday, I left discord so I {"can't"} sponsor your account anymore
+        {
+          "Don't worry about me, I won't physically hurt myself, whenever I feel depressed I just remember what my dad had gone through at my age and my pain just disappears"
+        }{' '}
+        <br />I <s>remember</s> <span className="font-extrabold">love</span> you
+        everyday, I left discord so I {"can't"} sponsor your account anymore
       </p>
       {/* <p>
         The thing I hate the most about you is that whenever I need help from you just completely go blank, like this way you are going to complete your own hospital dream and helping poor people? <br/>
