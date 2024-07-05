@@ -116,7 +116,7 @@ export default function Home() {
         anything opposite if this is a misinterpretation <br />
         Even I dont know how heartbroken I am gonna be for the rest of my life <br/>
         <br/>
-        Even so, I would like you to request you something<br/>
+        Even so, I would like you to request you something<br/><br/>
         <span className="text-red-500">Please be mine</span> <br/>
         <span className="text-red-500">Please dont leave me</span>
         <br/>
