@@ -20,6 +20,12 @@ export default function Home() {
         Meanwhile my desktop background
       </p>
       <Image src='/bg.png' unoptimized  alt='pc_bg' width={100} height={100} className='w-[80vw] h-auto rounded-xl shadow-xl py-24' />
+
+      <br/><br/><br/>
+      <p className="z-10 whitespace-pre-wrap text-center text-5xl font-medium tracking-tighter text-black dark:text-white">
+        {"Don't worry about me, whenever I feel depressed I just remember what my dad had gone through at my age and my pain just disappears"} <br/>
+        I <s>remember</s> love you everyday, I left discord and I cannot sponsor your account anymore, my bad
+      </p>
       {/* <p>
         The thing I hate the most about you is that whenever I need help from you just completely go blank, like this way you are going to complete your own hospital dream and helping poor people? <br/>
         bolte ho weak r? <br/>
