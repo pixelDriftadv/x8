@@ -24,7 +24,7 @@ export default function Home() {
       <br/><br/><br/>
       <p className="z-10 whitespace-pre-wrap text-center text-5xl font-medium tracking-tighter text-black dark:text-white">
         {"Don't worry about me, whenever I feel depressed I just remember what my dad had gone through at my age and my pain just disappears"} <br/>
-        I <s>remember</s> love you everyday, I left discord and I cannot sponsor your account anymore, my bad
+        I <s>remember</s> <span className='font-extrabold'>love</span> you everyday, I left discord so I cannot sponsor your account anymore
       </p>
       {/* <p>
         The thing I hate the most about you is that whenever I need help from you just completely go blank, like this way you are going to complete your own hospital dream and helping poor people? <br/>
