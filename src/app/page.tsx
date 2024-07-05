@@ -19,8 +19,21 @@ export default function Home() {
           'inset-x-0 inset-y-[-30%] h-[100%] skew-y-12'
         )}
       />
-
-      <p className="z-10 whitespace-pre-wrap text-center text-xl font-medium tracking-tighter text-black dark:text-white">
+      <Link href={'/replies'}>
+        <p className="z-10 text-blue-600 underline whitespace-pre-wrap text-center text-5xl font-bold tracking-tighter ">
+          My direct replies{' '}
+        </p>
+      </Link>
+      <p>
+        <span className=" text-xl opacity-90 text-white font-medium">
+          {' '}
+          to the person I trust the most{' '}
+        </span>
+      </p>
+      <br /> <br />
+      {/* <br />
+      <br />
+      <p className="z-10 whitespace-pre-wrap text-center text-3xl font-medium tracking-tighter text-black dark:text-white">
         I am currently learning{' '}
         <span className=" underline text-blue-600">
           <Link href={'https://dart.dev/'}>dart</Link>
@@ -38,11 +51,11 @@ export default function Home() {
         width="80vw" // Show native player controls
       />
       <br />
-      <br />
+      <br /> */}
       <p className="z-10 whitespace-pre-wrap text-center text-5xl font-medium tracking-tighter text-black dark:text-white">
-        You think I will easily forget you? <br />
-        <br />
-        Meanwhile my desktop background
+        I <s>remember</s> <span className="font-extrabold">love</span> you
+        everytime I open my <s>screen</s>{' '}
+        <span className="font-extrabold">eyes</span>
       </p>
       <Image
         src="/bg.png"
@@ -52,8 +65,7 @@ export default function Home() {
         height={100}
         className="w-[80vw] h-auto rounded-xl shadow-xl py-24"
       />
-
-      <br />
+      {/* <br />
       <br />
       <br />
       <p className="z-10 whitespace-pre-wrap text-center text-5xl font-medium tracking-tighter text-black dark:text-white">
@@ -62,7 +74,7 @@ export default function Home() {
         }{' '}
         <br />I <s>remember</s> <span className="font-extrabold">love</span> you
         everyday, I left discord so I {"can't"} sponsor your account anymore
-      </p>
+      </p> */}
       {/* <p>
         The thing I hate the most about you is that whenever I need help from you just completely go blank, like this way you are going to complete your own hospital dream and helping poor people? <br/>
         bolte ho weak r? <br/>
