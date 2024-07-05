@@ -114,7 +114,14 @@ export default function Home() {
         <br /> <br /> <br />I trust you, dont betray me this time if you clearly
         want us to end the relation post a {'"no relation"'} story again or
         anything opposite if this is a misinterpretation <br />
-        Even I dont know how heartbroken I am gonna be for the next months
+        Even I dont know how heartbroken I am gonna be for the rest of my life <br/>
+        <br/>
+        Even so, I would like you to request you something<br/>
+        <span className="text-red-500">Please be mine</span> <br/>
+        <span className="text-red-500">Please dont leave me</span>
+        <br/>
+      <span className="text-blue-400">Please take care of yourself, everytime I see bad news I just thank god my family and you, your family is safe, be careful, stay away from strangers dont take anything from strangers, dont go outside after 20:00, look back even in group/with friends, listen to your parents, just remember some restrictions are not restrction its just something you havent seen what your parents have</span>
+        
       </p>
     </main>
   );
