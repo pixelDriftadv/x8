@@ -23,7 +23,7 @@ export default function Home() {
 
       <br/><br/><br/>
       <p className="z-10 whitespace-pre-wrap text-center text-5xl font-medium tracking-tighter text-black dark:text-white">
-        {"Don't worry about me, whenever I feel depressed I just remember what my dad had gone through at my age and my pain just disappears"} <br/>
+        {"Don't worry about me, I won't physically hurt myself, whenever I feel depressed I just remember what my dad had gone through at my age and my pain just disappears"} <br/>
         I <s>remember</s> <span className='font-extrabold'>love</span> you everyday, I left discord so I {"can't"} sponsor your account anymore
       </p>
       {/* <p>
