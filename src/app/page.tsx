@@ -19,7 +19,7 @@ export default function Home() {
         You think I will easily forget you? <br/><br/>
         Meanwhile my desktop background:
       </p>
-      <Image src='/bg.png' alt='pc_bg' width={100} height={100} className='w-[80vw] h-auto rounded-2xl shadow-xl' />
+      <Image src='/bg.png' unoptimized  alt='pc_bg' width={100} height={100} className='w-[80vw] h-auto rounded-2xl shadow-xl' />
       {/* <p>
         The thing I hate the most about you is that whenever I need help from you just completely go blank, like this way you are going to complete your own hospital dream and helping poor people? <br/>
         bolte ho weak r? <br/>
