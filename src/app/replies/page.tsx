@@ -31,7 +31,7 @@ export default function Home() {
         verify it, so please understand
       </p>
       <p className="z-10  whitespace-pre-wrap text-center text-xl font-bold tracking-tighter ">
-      After 3 days, 09th July, if stll remained blocked, I will assume these are only coincidences, and I am leaving the entire internet 
+      After 3 days, 09th July, if still remained blocked, I will assume these are only coincidences, and I am leaving the entire internet 
       </p>
       <br/><br/>
       <Link href={'/replies/05-07-2024'}>
