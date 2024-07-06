@@ -30,6 +30,10 @@ export default function Home() {
         account I wont send any friend request or messages or any views, just to
         verify it, so please understand
       </p>
+      <p className="z-10  whitespace-pre-wrap text-center text-xl font-bold tracking-tighter ">
+      After 5 days, 11th July, if stll remained blocked, I will assume these are only coincidences, and I am leaving the entire internet 
+      </p>
+      <br/><br/>
       <Link href={'/replies/05-07-2024'}>
         <p className="z-10 text-blue-600 underline whitespace-pre-wrap text-center text-xl font-bold tracking-tighter ">
           {'05-07-2024'}
