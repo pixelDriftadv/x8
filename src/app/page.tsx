@@ -19,7 +19,7 @@ export default function Home() {
           'inset-x-0 inset-y-[-30%] h-[100%] skew-y-12'
         )}
       />
-      <Link href={'/replies'}>
+{/*       <Link href={'/replies'}>
         <p className="z-10 text-blue-600 underline whitespace-pre-wrap text-center text-5xl font-bold tracking-tighter ">
           My direct replies{' '}
         </p>
@@ -30,7 +30,7 @@ export default function Home() {
           to the person I trust the most{' '}
         </span>
       </p>
-      <br /> <br />
+      <br /> <br /> */}
       {/* <br />
       <br />
       <p className="z-10 whitespace-pre-wrap text-center text-3xl font-medium tracking-tighter text-black dark:text-white">
@@ -53,18 +53,21 @@ export default function Home() {
       <br />
       <br /> */}
       <p className="z-10 whitespace-pre-wrap text-center text-5xl font-medium tracking-tighter text-black dark:text-white">
-        I <s>remember</s> <span className="font-extrabold">love</span> you
-        everytime I open my <s>screen</s>{' '}
-        <span className="font-extrabold">eyes</span>
+        {"You can't even unblock my profile"} <br/> 
+        <Link href={"https://www.instagram.com/p/C6w1v8bsPsp/?igsh=YTRmZzQ4Mzlxb3dv"}>
+        <span className='text-blue-600 underline'>{'https://www.instagram.com/p/C6w1v8bsPsp/?igsh=YTRmZzQ4Mzlxb3dv'}</span>
+        </Link>
+        <br/>
+        And I trusted you enough to say personal things about me <br/>
       </p>
-      <Image
+{/*       <Image
         src="/bg.png"
         unoptimized
         alt="pc_bg"
         width={100}
         height={100}
         className="w-[80vw] h-auto rounded-xl shadow-xl py-24"
-      />
+      /> */}
       {/* <br />
       <br />
       <br />
