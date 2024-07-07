@@ -56,7 +56,7 @@ export default function Home() {
         {"You can't even unblock my profile"} <br/> 
         <Link href={"https://www.instagram.com/p/C6w1v8bsPsp/?igsh=YTRmZzQ4Mzlxb3dv"}>
         <span className='text-blue-600 underline'>{'https://www.instagram.com/p/C6w1v8bsPsp/?igsh=YTRmZzQ4Mzlxb3dv'}</span>
-        </Link>
+        </Link> (even you know it yourself I would never ask for the physical one)
         <br/>
         And I trusted you enough to say personal things about me <br/>
       </p>
